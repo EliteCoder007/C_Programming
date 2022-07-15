@@ -1,5 +1,5 @@
 #include<stdio.h>
-//changing on EliteCoder....
+
 void printFullName(char arr[]);
 
 int main(){
