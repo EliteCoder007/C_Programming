@@ -1,0 +1,1 @@
+//Pattern sikhbo ajk bikale
